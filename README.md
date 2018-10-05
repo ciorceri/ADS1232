@@ -1,0 +1,2 @@
+# ADS1232
+ADS1232/ADS1234 Arduino Library
