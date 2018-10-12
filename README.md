@@ -18,8 +18,7 @@ Below you can see some pictures from test circuit and a Fritzing diagram.
 
 For test circuit I've used **CJMCU-1232** development board and Arduino UNO.
 
-![test setup 1](https://github.com/ciorceri/ADS1232/raw/master/img/test_setup_1.jpg)
-![test setup 2](https://github.com/ciorceri/ADS1232/raw/master/img/test_setup_2.jpg)
+![test setup](https://github.com/ciorceri/ADS1232/raw/master/img/test_setup.png)
 
 Below is a Fritzing diagram with connection details.
 
