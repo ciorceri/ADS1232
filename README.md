@@ -10,12 +10,16 @@ Features:
 
 Missing features:
 
-- this library doens't support reading from 2nd (3rd, 4th for ADS1234) differential input.
+- this library doens't support reading from 2nd (3rd & 4th for ADS1234) differential input.
 - offset calibration
-- enter sleep mode
+- sleep mode
 
 Below you can see some pictures from test circuit and a Fritzing diagram.
 
-For test circuit I've used **CJMCU-1232** development board.
+For test circuit I've used **CJMCU-1232** development board and Arduino UNO.
 
-TODO: insert pictures here
+... image here ...
+
+Below is a Fritzing diagram with connection details.
+
+... image here ...
